@@ -5,7 +5,7 @@ It basically unsubsribes from anything that can be unsubscribed but can be easil
 
 # Why one would need it? 
 
-If you have too many emails spam emails and don't have patience to unsubscribe manually.
+If you have too many spam emails and don't have patience to unsubscribe manually.
 
 This code is simple and easy to audit for anyone, see for yourself - [script.js](./script.js)
 
